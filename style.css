@@ -9,6 +9,73 @@ h1 {
     border: 2px solid midnightblue;
     border-radius: 17.5px;
     padding: 15px;
+    text-transform: uppercase;
+}
+header {
+    background-color: mediumorchid;
+    border: 2px solid indigo;
+    border-radius: 17.5px;
+    color: indigo;
+}
+.logo {
+    padding: 5px;
+}
+header a {
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    background-color: thistle;
+    border: 2px solid darkmagenta;
+    border-radius: 17.5px;
+    color: darkmagenta;
+}
+nav {
+    margin:15px;
+    padding:15px;
+    border:2px solid darkviolet;
+    border-radius:17.5px;
+}
+nav a {
+    margin:17.5px;
+    text-decoration:none;
+    font-size:20px;
+    color:mediumpurple;
+    border: 2px solid darkviolet;
+    border-radius:17.5px;
+    padding:3px;
+}
+.product {
+    text-align: center;
+    color: deepskyblue;
+    font-family: Times New Roman;
+}
+.product2 {
+    border: 2px solid deepskyblue;
+    padding: 17.5px;
+    margin: 17.5px;
+    border-radius: 17.5px;
+}
+h2 {
+    color: lightseagreen;
+    text-align: center;
+    font-family: Courier New;
+}
+a {
+    text-decoration: none;
+    color: mediumaquamarine;
+    font-family: Garamond;
+}
+    font-family: sans-serif;
+}
+h1 {
+    text-align:center;
+    font-size: 50px;
+    color: mediumblue;
+    background-color: skyblue;
+    border: 2px solid midnightblue;
+    border-radius: 17.5px;
+    padding: 15px;
 }
 header {
     background-color: mediumorchid;
